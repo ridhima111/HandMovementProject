@@ -24,29 +24,17 @@ To run the code, type `python Write.py`
 python Write.py
 ```
 
-## Results 📊
-
-**Hand Movement | Version 1**
 
 
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/write.gif">
-
-</br>
-
-**Hand Movement | Version 2**
-
-
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/write_v2.gif" width=720>
-
-###### Made with ❤️ and 🦙 by Akshay Bahadur
+###### Made with ❤️ and 🦙 by Ridhima
 
 ## 📌 Cite Us
 
 To cite this guide, use the below format:
 ```
 @article{HandMovementTracking,
-author = {Bahadur, Akshay},
-journal = {https://github.com/akshaybahadur21/HandMovementTracking},
+author = {Phull, Ridhima},
+journal = {https://github.com/ridhima111/HandMovementProject},
 month = {01},
 title = {{HandMovementTracking}},
 year = {2018}
